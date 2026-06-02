@@ -2,3 +2,4 @@ clear
 ./five.sh
 __vsc_prompt_cmd_original
 help type
+type echo
