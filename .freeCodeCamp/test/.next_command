@@ -4,3 +4,4 @@ __vsc_prompt_cmd_original
 help type
 type echo
 type read
+type if
